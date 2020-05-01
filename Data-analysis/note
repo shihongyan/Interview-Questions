@@ -1,0 +1,23 @@
+python包：
+selenum
+openpyxl:用来处理excel的一个包
+机器学习的步骤：
+1、import the data --导入我们需要的数据
+2、Clean the data ---清洗数据，涉及到重复数据之类的
+--将数据分成80%训练，20%用于测试
+3、split the data into training/test sets
+--建立模型//决策树，神经网络等
+4、Create a Model
+--训练数据
+5、Train the Model
+--做出预测
+6、Make Predictions
+--改进，调整
+7、Evaluate and Improve
+
+机器学习的常用库
+Numpy   -提供多维数组
+Pandas  -数据分析库--dataframe
+MatPlotLib -绘制不同的统计图
+Scikit-Learn
+
